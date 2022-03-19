@@ -1,4 +1,4 @@
-module github.com/CassianoDev/go-yamux/v3
+module github.com/CassianoDev/gulinmux/v3
 
 go 1.17
 
