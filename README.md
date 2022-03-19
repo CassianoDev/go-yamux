@@ -1,4 +1,4 @@
-# Yamux
+# GulinMux [Yamux]
 
 Yamux (Yet another Multiplexer) is a multiplexing library for Golang.
 It relies on an underlying connection to provide reliability
