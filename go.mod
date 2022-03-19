@@ -1,4 +1,4 @@
-module github.com/CassianoDev/gulinmux/v3
+module github.com/CassianoDev/gulinmux
 
 go 1.17
 
